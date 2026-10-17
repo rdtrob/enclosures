@@ -8,11 +8,11 @@ A 3D-printable, weather-resistant enclosure for a portable mesh radio node built
 
 ## Overview
 
-![Plate carrier presentation](images/1.jpg)
+![Plate carrier presentation](https://github.com/rdtrob/rdt_manet_enclosure/raw/main/images/1.jpg)
 
-![Assembled enclosure with accessories, next to battery.](images/4.jpg?raw=true)
+![Assembled enclosure with accessories, next to battery.](https://github.com/rdtrob/rdt_manet_enclosure/raw/main/images/4.jpg)
 
-More pictures can be found in [images/](images/)
+More pictures can be found in [images/](https://github.com/rdtrob/rdt_manet_enclosure/tree/main/images)
 
 This repository contains the printable parts (STL) for a self-contained MANET radio node. The enclosure houses:
 
